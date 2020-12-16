@@ -1,0 +1,66 @@
+Project : Amazon Clone
+EPICS    :  - Landing Page(App+[Home+Navbar].js)
+            - User Auth(Login System)
+                STORY : Register Page, Login Page, Logout, JWT
+            - Add to Basket
+                STORY : Connection w DB
+                STORY : Add-Remove items
+            - Checkout Page
+                STORY : Auth needed
+
+
+
+
+                User
+                    email
+                    password
+                    nick
+                    basket {
+                           {id
+                            title
+                            price
+                            rating
+                            image
+                            }
+
+                        }
+                    }
+
+
+
+                         items :{
+                            {
+                           id
+                            title
+                            price
+                            rating
+                            image
+                            }
+                            {
+                           id
+                            title
+                            price
+                            rating
+                            image
+                            }
+                            {
+                           id
+                            title
+                            price
+                            rating
+                            image
+                            }
+                            {
+                           id
+                            title
+                            price
+                            rating
+                            image
+                            }
+                            {
+                           id
+                            title
+                            price
+                            rating
+                            image
+                            }
